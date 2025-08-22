@@ -60,8 +60,8 @@ npm run build
 Then upload the dist/ folder.
 ---
 ■ Notes
-- Time Spent: ~X hours (fill this after completing).
+- Time Spent: 2days.
 - Known Limitations:
 - Pagination is limited to available API data.
-- Token is hardcoded for demo purposes (in production, use .env).
+
 ---
